@@ -1,0 +1,14 @@
+C:\Users\liuzhiwei\Downloads\DDay-iCal-1_0_2-BetaCandidate2-src\DDay.Collections\DDay.Collections\bin\Debug\DDay.Collections.dll.config
+C:\Users\liuzhiwei\Downloads\DDay-iCal-1_0_2-BetaCandidate2-src\DDay.Collections\DDay.Collections\bin\Debug\DDay.Collections.dll
+C:\Users\liuzhiwei\Downloads\DDay-iCal-1_0_2-BetaCandidate2-src\DDay.Collections\DDay.Collections\bin\Debug\DDay.Collections.pdb
+C:\Users\liuzhiwei\Downloads\DDay-iCal-1_0_2-BetaCandidate2-src\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.csprojResolveAssemblyReference.cache
+C:\Users\liuzhiwei\Downloads\DDay-iCal-1_0_2-BetaCandidate2-src\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.csproj.CoreCompileInputs.cache
+C:\Users\liuzhiwei\Downloads\DDay-iCal-1_0_2-BetaCandidate2-src\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.dll
+C:\Users\liuzhiwei\Downloads\DDay-iCal-1_0_2-BetaCandidate2-src\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.pdb
+G:\CalCode\iCalendar\DDay.Collections\DDay.Collections\bin\Debug\DDay.Collections.dll.config
+G:\CalCode\iCalendar\DDay.Collections\DDay.Collections\bin\Debug\DDay.Collections.dll
+G:\CalCode\iCalendar\DDay.Collections\DDay.Collections\bin\Debug\DDay.Collections.pdb
+G:\CalCode\iCalendar\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.csprojResolveAssemblyReference.cache
+G:\CalCode\iCalendar\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.csproj.CoreCompileInputs.cache
+G:\CalCode\iCalendar\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.dll
+G:\CalCode\iCalendar\DDay.Collections\DDay.Collections\obj\Debug\DDay.Collections.pdb
